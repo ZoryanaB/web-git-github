@@ -3,3 +3,5 @@ qst file
 Some changes
 
 More content
+
+Additional text
